@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:task_manager/Model/Task_data.dart';
+import 'package:task_manager/Model/task_data.dart';
 import 'package:task_manager/Sevices/remote_services.dart';
 import 'package:task_manager/Widgets/button_widget.dart';
 

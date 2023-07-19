@@ -5,7 +5,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:task_manager/Widgets/button_widget.dart';
 import 'package:task_manager/screens/Login_screen.dart';
 import 'package:task_manager/screens/Tasks.dart';
-import 'package:task_manager/screens/add_rask.dart';
+import 'package:task_manager/screens/add_task.dart';
 
 String cid='';
 class HomeScreen extends StatefulWidget {

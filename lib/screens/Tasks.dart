@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:task_manager/Model/Task_data.dart';
+import 'package:task_manager/Model/task_data.dart';
 import 'package:task_manager/Sevices/remote_services.dart';
 import 'package:task_manager/Widgets/Task_wid.dart';
 import 'package:task_manager/Widgets/button_widget.dart';
-import 'package:task_manager/screens/add_rask.dart';
+import 'package:task_manager/screens/add_task.dart';
 
 import 'home_page.dart';
 
