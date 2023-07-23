@@ -19,9 +19,25 @@
 
 
 # Installation
+To get started with Task Manager, follow these steps:
+
+1. Ensure that you have Flutter and Dart SDK installed on your machine. For installation instructions, refer to the official [Flutter documentation](https://docs.flutter.dev/get-started/install).
+1. Clone the repository:
+   
+    ```bash
+    git clone https://github.com/rai-rajeev/Task_manager.git
+    ```
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+5. Connect a physical device or emulator.
+6. Run the app:
+   ```bash
+   flutter run
 # Download Apk file
 https://drive.google.com/file/d/1IWaIUCUomcyEh0CjfxzXZgSz3sU8EGNa/view?usp=sharing
 # Demo
+https://drive.google.com/file/d/181PpqBXEvoF6TAOJOuBMMa62LRocsp5c/view?usp=sharing
 # Working of the App
 # Author
  + [@rai-rajeev](https://github.com/rai-rajeev)
